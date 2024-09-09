@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\YouTube\\Videos\\Angular\\Angular 18\\User Registration with .Net Core API\\Project\\AuthECAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\user registration with .net core api\\project\\authecapi\\authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\user registration with .net core api\\project\\authecapi\\authecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\user registration with .net core api\\project\\authecapi\\authecapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\user registration with .net core api\\project\\authecapi\\authecapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\user registration with .net core api\\project\\authecapi\\authecapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\user registration with .net core api\\project\\authecapi\\authecapi\\migrations\\20240713160809_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\migrations\\20240713160809_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\user registration with .net core api\\project\\authecapi\\authecapi\\migrations\\20240714025755_nameisaddedinuserentity2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\migrations\\20240714025755_nameisaddedinuserentity2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\user registration with .net core api\\project\\authecapi\\authecapi\\migrations\\20240714024834_nameisaddedinuserentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\migrations\\20240714024834_nameisaddedinuserentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\User Registration with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Program.cs",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\User Registration with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Program.cs",
+              "RelativeToolTip": "AuthECAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T08:27:05.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\User Registration with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\User Registration with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T03:01:48.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240714025755_NameIsAddedInUserEntity2.cs",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\User Registration with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Migrations\\20240714025755_NameIsAddedInUserEntity2.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20240714025755_NameIsAddedInUserEntity2.cs",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\User Registration with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Migrations\\20240714025755_NameIsAddedInUserEntity2.cs",
+              "RelativeToolTip": "AuthECAPI\\Migrations\\20240714025755_NameIsAddedInUserEntity2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:57:55.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\User Registration with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Models\\AppUser.cs",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\User Registration with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Models\\AppUser.cs",
+              "RelativeToolTip": "AuthECAPI\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:35:42.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\User Registration with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthECAPI\\appsettings.json",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\User Registration with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\appsettings.json",
+              "RelativeToolTip": "AuthECAPI\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-13T15:49:47.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\User Registration with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\User Registration with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "AuthECAPI\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAxwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T15:27:58.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240714024834_NameIsAddedInUserEntity.cs",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\User Registration with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Migrations\\20240714024834_NameIsAddedInUserEntity.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20240714024834_NameIsAddedInUserEntity.cs",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\User Registration with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Migrations\\20240714024834_NameIsAddedInUserEntity.cs",
+              "RelativeToolTip": "AuthECAPI\\Migrations\\20240714024834_NameIsAddedInUserEntity.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIBAwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:48:34.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240713160809_InitialMigration.cs",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\User Registration with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Migrations\\20240713160809_InitialMigration.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20240713160809_InitialMigration.cs",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\User Registration with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Migrations\\20240713160809_InitialMigration.cs",
+              "RelativeToolTip": "AuthECAPI\\Migrations\\20240713160809_InitialMigration.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T16:08:10.082Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
