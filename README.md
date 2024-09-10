@@ -1,9 +1,6 @@
 # Angular User Registration with Asp.Net Core Minimal Web API
 Demo project showing How to create a complete Angular User Registration with Asp.Net Core Minimal Web API
 
-Points discussed :
-_____________________
-
 
  ## How it works ?
  
